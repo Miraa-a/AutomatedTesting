@@ -1,0 +1,8 @@
+com\mycompany\app\core\SearchTester.class
+com\mycompany\app\core\WishlistTester.class
+com\mycompany\app\core\ScreenshotTestListener.class
+com\mycompany\app\core\ProfileTester.class
+com\mycompany\app\AppTest.class
+com\mycompany\app\core\Configuration.class
+com\mycompany\app\core\Helpers.class
+com\mycompany\app\core\FilterTester.class
